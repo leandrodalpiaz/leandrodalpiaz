@@ -1,4 +1,5 @@
-### Olá, bem vindo, sou Leandro Dalpiaz adminstrador e estudante de Análise e Desenv de Sistemas.
+### Olá, bem vindo!
+Sou Leandro Dalpiaz adminstrador e estudante de Análise e Desenv de Sistemas.
 Obrigado pela vista! 👋
 
 <!--
@@ -12,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronome: ele, dele
 - ⚡ Fun fact: ciclismo, crossfit
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrodalpiaz&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
