@@ -1,37 +1,38 @@
-## Olá, bem vindo!
-### Sou Leandro Dalpiaz adminstrador e estudante de Análise e Desenv de Sistemas.
+# Leandro Dalpiaz
 
-### Apaixonado por conhecimento e por tecnologia 👋
+### Software · Processos · Sistemas
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ls.dalpiaz?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-dalpiaz-b94981222/)
+Administração me deu visão de negócio.  
+Tecnologia me deu meios para materializar processos.  
+A combinação das duas moldou a forma como enxergo sistemas.
 
+Gosto de entender o todo — processos, regras, dados, integrações e o que acontece antes e depois do código.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrodalpiaz&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## Projetos
 
-## Tecnologias no meu dia a dia:
+### CRM 360
+Gestão comercial integrada ao ERP, acompanhando a jornada do cliente da prospecção ao pós-venda.
 
-<div style= "display: inline_block"><br/>
-  <img align="center" alt="Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="PostgreSQL" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="C#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt=".net" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img align="center" alt="udemy" src= "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  <img align="center" alt="win" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
+### MRP
+Planejamento de materiais e apoio à decisão para reposição, transferências e produção.
 
+### Gestor
+Sistema de gestão administrativa, com regras de negócio, perfis de acesso e diferentes experiências de operação.
 
+### Bode Andarilho
+Plataforma para gestão de eventos, comunicação e confirmações, integrando backend, automações e aplicação web.
 
+### Automação de Atendimento
+Centralização de conversas, filas, responsáveis, automações e integração do atendimento com processos internos.
 
+---
 
+### Tecnologias
 
-  
+`Python` · `.NET` · `Angular` · `TypeScript` · `PostgreSQL` · `Docker` · `APIs`
 
+---
 
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/leandro-dalpiaz-b94981222/)
